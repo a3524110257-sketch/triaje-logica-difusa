@@ -1,0 +1,6 @@
+paciente,temperatura,presion,dolor,prioridad,clasificacion
+Paciente 1,36.5,120,2,14.09,BAJA
+Paciente 2,37.8,135,5,55.3,MEDIA
+Paciente 3,38.6,145,7,76.28,ALTA
+Paciente 4,39.2,160,9,79.5,ALTA
+Paciente 5,36.9,95,8,77.48,ALTA
